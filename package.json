@@ -56,7 +56,7 @@
     "material-components-web": "^4.0.0",
     "rxjs": "^6.5.3",
     "systemjs": "0.19.43",
-    "tsickle": "^0.37.0",
+    "tsickle": "^0.37.1",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
